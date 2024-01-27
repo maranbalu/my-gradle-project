@@ -45,7 +45,7 @@ dependencies {
     testImplementation("org.slf4j:slf4j-simple:2.1.0-alpha1")
     implementation("org.seleniumhq.selenium:selenium-java:4.16.1")
     implementation("io.qameta.allure:allure-testng:2.25.0")
-
+    implementation("org.eclipse.jgit:org.eclipse.jgit:6.8.0.202311291450-r")
 }
 
 repositories {
